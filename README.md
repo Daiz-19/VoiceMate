@@ -5,16 +5,16 @@ VoiceMate is a simple yet powerful Python-based voice assistant that responds to
 
 ✨ Features:
 
-🔊 **Voice Interaction**: Speak naturally to control the assistant
-🔍 **Google Search**: Ask anything and get instant results
-📺 **Play YouTube Videos**: "Play lo-fi music on YouTube"
-😂 **Joke Generator**: Get random dad jokes from a custom CSV file
-📝 **Voice Notes**:
+-🔊 **Voice Interaction**: Speak naturally to control the assistant
+-🔍 **Google Search**: Ask anything and get instant results
+-📺 **Play YouTube Videos**: "Play lo-fi music on YouTube"
+-😂 **Joke Generator**: Get random dad jokes from a custom CSV file
+-📝 **Voice Notes**:
   - Create notes via voice
   - Save and view notes
   - Read notes aloud
-📋 **To-Do List**:
+-📋 **To-Do List**:
   - Make a new list
   - Add tasks
   - Read or display the list
-⏱️ **Countdown Timer**: Set custom timers using your voice
+-⏱️ **Countdown Timer**: Set custom timers using your voice
