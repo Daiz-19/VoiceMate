@@ -3,7 +3,7 @@
 VoiceMate is a simple yet powerful Python-based voice assistant that responds to your spoken commands. It can play YouTube videos, search Google, tell jokes, manage your to-do list, create and read notes, and set countdown timers — all hands-free!
 
 
-#✨ Features
+✨ Features:
 
 🔊 **Voice Interaction**: Speak naturally to control the assistant
 🔍 **Google Search**: Ask anything and get instant results
